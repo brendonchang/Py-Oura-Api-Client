@@ -1,4 +1,12 @@
 {
-    "data": [],
+    "data": [
+        {
+            "id": "2329d84d-8ac7-4c25-9482-83841a62d8d5",
+            "day": "2024-07-09",
+            "spo2_percentage": {
+                "average": 98.639
+            }
+        }
+    ],
     "next_token": null
 }

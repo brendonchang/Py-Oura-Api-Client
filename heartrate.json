@@ -739,6 +739,701 @@
             "bpm": 76,
             "source": "awake",
             "timestamp": "2024-07-09T05:44:30+00:00"
+        },
+        {
+            "bpm": 66,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:31:47+00:00"
+        },
+        {
+            "bpm": 71,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:32:17+00:00"
+        },
+        {
+            "bpm": 68,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:32:43+00:00"
+        },
+        {
+            "bpm": 72,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:36:45+00:00"
+        },
+        {
+            "bpm": 74,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:37:49+00:00"
+        },
+        {
+            "bpm": 68,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:37:56+00:00"
+        },
+        {
+            "bpm": 78,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:42:18+00:00"
+        },
+        {
+            "bpm": 72,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:43:12+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:47:06+00:00"
+        },
+        {
+            "bpm": 68,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:47:27+00:00"
+        },
+        {
+            "bpm": 65,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:48:06+00:00"
+        },
+        {
+            "bpm": 62,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:52:18+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:52:43+00:00"
+        },
+        {
+            "bpm": 65,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:53:31+00:00"
+        },
+        {
+            "bpm": 66,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:57:18+00:00"
+        },
+        {
+            "bpm": 68,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:58:04+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T06:58:48+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:03:15+00:00"
+        },
+        {
+            "bpm": 65,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:03:23+00:00"
+        },
+        {
+            "bpm": 61,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:03:34+00:00"
+        },
+        {
+            "bpm": 70,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:07:30+00:00"
+        },
+        {
+            "bpm": 67,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:08:25+00:00"
+        },
+        {
+            "bpm": 64,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:08:52+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:13:52+00:00"
+        },
+        {
+            "bpm": 61,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:14:02+00:00"
+        },
+        {
+            "bpm": 65,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:14:36+00:00"
+        },
+        {
+            "bpm": 65,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:18:34+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:19:25+00:00"
+        },
+        {
+            "bpm": 67,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:19:50+00:00"
+        },
+        {
+            "bpm": 68,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:23:55+00:00"
+        },
+        {
+            "bpm": 66,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:23:56+00:00"
+        },
+        {
+            "bpm": 71,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:23:58+00:00"
+        },
+        {
+            "bpm": 66,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:29:04+00:00"
+        },
+        {
+            "bpm": 71,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:29:08+00:00"
+        },
+        {
+            "bpm": 75,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:29:12+00:00"
+        },
+        {
+            "bpm": 68,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:33:42+00:00"
+        },
+        {
+            "bpm": 66,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:34:37+00:00"
+        },
+        {
+            "bpm": 64,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:34:53+00:00"
+        },
+        {
+            "bpm": 74,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:39:14+00:00"
+        },
+        {
+            "bpm": 69,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:40:07+00:00"
+        },
+        {
+            "bpm": 65,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:40:13+00:00"
+        },
+        {
+            "bpm": 69,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:44:30+00:00"
+        },
+        {
+            "bpm": 72,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:44:44+00:00"
+        },
+        {
+            "bpm": 64,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:49:15+00:00"
+        },
+        {
+            "bpm": 62,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:50:02+00:00"
+        },
+        {
+            "bpm": 60,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:50:03+00:00"
+        },
+        {
+            "bpm": 65,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:55:05+00:00"
+        },
+        {
+            "bpm": 74,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:55:43+00:00"
+        },
+        {
+            "bpm": 70,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:55:50+00:00"
+        },
+        {
+            "bpm": 75,
+            "source": "awake",
+            "timestamp": "2024-07-09T07:59:46+00:00"
+        },
+        {
+            "bpm": 70,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:00:15+00:00"
+        },
+        {
+            "bpm": 67,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:00:33+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:12:58+00:00"
+        },
+        {
+            "bpm": 61,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:13:39+00:00"
+        },
+        {
+            "bpm": 59,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:14:23+00:00"
+        },
+        {
+            "bpm": 63,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:18:58+00:00"
+        },
+        {
+            "bpm": 66,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:19:05+00:00"
+        },
+        {
+            "bpm": 60,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:19:38+00:00"
+        },
+        {
+            "bpm": 60,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:23:37+00:00"
+        },
+        {
+            "bpm": 62,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:24:08+00:00"
+        },
+        {
+            "bpm": 64,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:24:39+00:00"
+        },
+        {
+            "bpm": 59,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:29:21+00:00"
+        },
+        {
+            "bpm": 55,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:29:32+00:00"
+        },
+        {
+            "bpm": 57,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:29:36+00:00"
+        },
+        {
+            "bpm": 55,
+            "source": "rest",
+            "timestamp": "2024-07-09T08:37:27+00:00"
+        },
+        {
+            "bpm": 54,
+            "source": "rest",
+            "timestamp": "2024-07-09T08:42:27+00:00"
+        },
+        {
+            "bpm": 53,
+            "source": "awake",
+            "timestamp": "2024-07-09T08:59:48+00:00"
+        },
+        {
+            "bpm": 55,
+            "source": "awake",
+            "timestamp": "2024-07-09T09:00:39+00:00"
+        },
+        {
+            "bpm": 53,
+            "source": "awake",
+            "timestamp": "2024-07-09T09:01:12+00:00"
+        },
+        {
+            "bpm": 52,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:03:27+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:19:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:24:42+00:00"
+        },
+        {
+            "bpm": 48,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:29:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:34:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:39:42+00:00"
+        },
+        {
+            "bpm": 48,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:44:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:49:42+00:00"
+        },
+        {
+            "bpm": 48,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:54:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T09:59:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:04:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:09:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:14:42+00:00"
+        },
+        {
+            "bpm": 54,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:19:42+00:00"
+        },
+        {
+            "bpm": 54,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:24:42+00:00"
+        },
+        {
+            "bpm": 54,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:29:42+00:00"
+        },
+        {
+            "bpm": 53,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:34:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:39:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:44:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:49:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:54:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T10:59:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:04:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:09:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:14:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:19:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:24:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:29:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:34:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:39:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:44:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:49:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:54:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T11:59:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:04:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:09:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:14:42+00:00"
+        },
+        {
+            "bpm": 53,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:19:42+00:00"
+        },
+        {
+            "bpm": 54,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:24:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:29:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:34:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:39:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:44:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:49:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:54:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T12:59:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:04:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:09:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:14:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:19:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:24:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:29:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:34:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:39:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:49:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:54:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T13:59:42+00:00"
+        },
+        {
+            "bpm": 54,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:04:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:09:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:19:42+00:00"
+        },
+        {
+            "bpm": 50,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:24:42+00:00"
+        },
+        {
+            "bpm": 51,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:29:42+00:00"
+        },
+        {
+            "bpm": 47,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:34:42+00:00"
+        },
+        {
+            "bpm": 47,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:39:42+00:00"
+        },
+        {
+            "bpm": 49,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:44:42+00:00"
+        },
+        {
+            "bpm": 48,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:49:42+00:00"
+        },
+        {
+            "bpm": 48,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:54:42+00:00"
+        },
+        {
+            "bpm": 47,
+            "source": "rest",
+            "timestamp": "2024-07-09T14:59:42+00:00"
+        },
+        {
+            "bpm": 48,
+            "source": "rest",
+            "timestamp": "2024-07-09T15:04:42+00:00"
+        },
+        {
+            "bpm": 47,
+            "source": "rest",
+            "timestamp": "2024-07-09T15:09:42+00:00"
         }
     ],
     "next_token": null
